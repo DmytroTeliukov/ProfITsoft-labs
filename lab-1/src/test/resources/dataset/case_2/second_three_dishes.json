@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "description": "Classic Italian pasta dish with bacon, eggs, and Parmesan cheese.",
+    "price": 12,
+    "weight": 300,
+    "calories": 450.5,
+    "category": "Main Course",
+    "ingredients": ["Spaghetti", "Bacon", "Eggs", "Parmesan Cheese"],
+    "cuisines": ["Italian"],
+    "dietarySpecifics": ["Contains Meat"]
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Fresh salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "price": 8,
+    "weight": 200,
+    "calories": 250.2,
+    "category": "Main Course",
+    "ingredients": ["Tomatoes", "Cucumbers", "Olives", "Feta Cheese"],
+    "cuisines": ["Greek"],
+    "dietarySpecifics": ["Vegetarian"]
+  },
+  {
+    "name": "Chocolate Cake",
+    "description": "Decadent chocolate cake topped with chocolate ganache.",
+    "price": 6,
+    "weight": 150,
+    "calories": 350.7,
+    "category": "Dessert",
+    "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Eggs", "Butter"],
+    "cuisines": ["International"],
+    "dietarySpecifics": ["Contains Dairy", "Contains Eggs"]
+  }
+]
