@@ -26,7 +26,7 @@ public class XmlReportDataWriterParser implements WriterParser<ReportDataItem> {
     /**
      * The filename pattern for the output XML file.
      */
-    private static final String OUTPUT_PATH_FILENAME = "statistic_by_%s.xml";
+    private static final String OUTPUT_PATH_FILENAME = "lab-1/src/main/resources/report/statistic_by_%s.xml";
 
     @Override
     public void write(List<ReportDataItem> data, String attributeBy) {
