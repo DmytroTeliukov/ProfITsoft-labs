@@ -28,7 +28,7 @@ public class JsonDishAttributeReader implements ReaderParser<String> {
     private static final Set<String> DISH_ARRAY_FIELDS = new HashSet<>();
 
     static {
-        DISH_ARRAY_FIELDS.add("specifics");
+        DISH_ARRAY_FIELDS.add("dietarySpecifics");
         DISH_ARRAY_FIELDS.add("cuisines");
         DISH_ARRAY_FIELDS.add("ingredients");
     }
